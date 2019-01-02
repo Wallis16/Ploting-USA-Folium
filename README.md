@@ -1,4 +1,4 @@
-# Ploting-USA-Folium
+# Plotting-USA-Folium
 Plotting circles using Folium
 
 Using Folium library I ploted colorfull circles (each one is a county and this color is about their values). 
